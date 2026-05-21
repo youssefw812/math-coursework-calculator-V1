@@ -16,6 +16,9 @@ A Python application that calculates:
 ## Technologies Used
 - Python 3
 
+## Version
+- v1.0
+
 ## Author
 Youssef Wael  
 © 2026 All Rights Reserved
